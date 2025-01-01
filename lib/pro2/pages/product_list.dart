@@ -684,7 +684,7 @@ class _HomePageState extends State<ProductList> {
                                   ),
                                   const SizedBox(width: 16),
                                   Text(
-                                    '\$${product.id} USD',
+                                    '\$${product.price} USD',
                                     style: const TextStyle(fontSize: 12),
                                   ),
                                   const SizedBox(width: 16),
